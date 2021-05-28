@@ -1,6 +1,6 @@
 [
   {
-    "عکس_آموزش": "https://my.uupload.ir/dl/JYkZdR02",
+    "عکس_آموزش": "https://s4.uupload.ir/files/۲۰۲۱_۰۵_۲۵_۰۵_۱۹_۰۳_cpz.jpg",
     "متن_آموزش": "sam oo aliekoom"
   }
 ]
