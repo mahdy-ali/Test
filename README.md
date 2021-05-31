@@ -1,6 +1,6 @@
 [
   {
-    "عکس_آموزش": "https://s4.uupload.ir/files/unnamed_(1)_smz2.png",
-    "متن_آموزش": "sam oo aliekoom"
+    "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
+    "متن_آموزش": "آموزش ساخت پیامرسان"
   }
 ]
