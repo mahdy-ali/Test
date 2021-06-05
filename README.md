@@ -2,7 +2,7 @@
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
     "متن_آموزش": "آموزش ساخت پیامرسان",
-    "لینک_آموزش": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/b4bb5f642ceee6ce18924b079e67437834077927-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRmYzM3NzJiZjI2MzI2YjEzMjRkZmM2ZWU0ODdmZTYwIiwiZXhwIjoxNjIyODEyNzY1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.w28ddogfyTzJkfY36Mj4DvSERByUT0HpEM53dy5wEo8"
+    "لینک_آموزش": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/b4bb5f642ceee6ce18924b079e67437834077927-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA0MDUyZTkzZWYyY2Q3N2RmNzU0ZjllZDdkNTJiYzA0IiwiZXhwIjoxNjIyODkyMTQyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Dd7UAEcb4bXf8v_PoD4JQCUJZoLOVPsRU8EOLUzN578"
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
