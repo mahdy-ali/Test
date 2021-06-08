@@ -2,7 +2,7 @@
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
     "متن_آموزش": "آموزش ساخت پیامرسان",
-    "لینک_آموزش": "https://my.uupload.ir/p/2k18xvyx"
+    "لینک_آموزش": "https://upir.ir/images/fnz07szah43yitazmufj.mp4"
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
