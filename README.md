@@ -10,6 +10,7 @@
     "لینک_آموزش": "https://upir.ir/images/7ud6ces9tjk588zjnq.mp4"
   },
   {
+    "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
     "متن_آموزش": "آموزش ساخت تغییر حالت متن",
     "لینک_آموزش": "https://my.uupload.ir/p/vxDL8Ob"
   },
