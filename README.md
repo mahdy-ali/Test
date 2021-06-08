@@ -17,17 +17,17 @@
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
     "متن_آموزش": "آموزش ساخت ماشین حساب",
-    "لینک_آموزش": "https://my.uupload.ir/p/vxDL8Ob"
+    "لینک_آموزش": "http://upir.ir/images/covngynu5an2f1yoae3m.mp4"
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
-    "متن_آموزش": "آموزش ساخت منو زیرین",
-    "لینک_آموزش": "https://my.uupload.ir/p/vxDL8Ob"
+    "متن_آموزش": "آموزش ساخت دیالوگ یکبار مصرف",
+    "لینک_آموزش": "http://upir.ir/images/tilxqv8py0rggey7dk36.mp4"
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
     "متن_آموزش": "آموزش ساخت دفترچه یادداشت",
-    "لینک_آموزش": "https://my.uupload.ir/p/vxDL8Ob"
+    "لینک_آموزش": "http://upir.ir/images/0nv3vl576dqpr9ii3ww.mp4"
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
