@@ -6,8 +6,8 @@
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
-    "متن_آموزش": "آموزش ساخت حالت شب پیشرفته",
-    "لینک_آموزش": "https://my.uupload.ir/p/vxDL8Ob"
+    "متن_آموزش": "آموزش ساخت رفع باگ سفارشی",
+    "لینک_آموزش": "https://upir.ir/images/7ud6ces9tjk588zjnq.mp4"
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
@@ -31,7 +31,7 @@
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
-    "متن_آموزش": "آموزش ساخت ",
-    "لینک_آموزش": "https://my.uupload.ir/p/vxDL8Ob"
+    "متن_آموزش": "آموزش ساخت ویدیو پلیر",
+    "لینک_آموزش": "https://upir.ir/images/fpha8q4xnu7jw14h3wxw.mp4"
   }
 ]
