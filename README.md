@@ -2,7 +2,7 @@
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
     "متن_آموزش": "آموزش ساخت پیامرسان",
-    "لینک_آموزش": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/b4bb5f642ceee6ce18924b079e67437834077927-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI1N2FmOGVlODk2ZDk5YTBkOTNkYTY1YmE3ZWE5YmIzIiwiZXhwIjoxNjIzMTA2MzAxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.wXb-wEH3qISG6znR0fDSreaAH1Rapr3KkjdT-Xl3_2E"
+    "لینک_آموزش": "https://my.uupload.ir/p/2k18xvyx"
   },
   {
     "عکس_آموزش": "https://my.uupload.ir/dl/1e7aLk9",
